@@ -1,0 +1,54 @@
+body {
+    background-color: #000000;
+    color:#ffffff;
+}
+
+header {
+    text-align: center;
+    color: #ffffff;
+}
+
+#iguana-1 .text {
+    background: #000000;
+    padding: 100px;
+    color: #ffffff;
+    text-align: right;
+   }
+ #iguana-1 .wrapper {
+    width: 800px;
+    margin: auto;
+   }
+
+   
+   #caracteristicas {
+    text-align: center;
+    background: #000f08;
+    color: #ffffff;
+    padding: 20px
+   }
+   i {
+    font-size: 30px
+    
+   }
+
+   footer {
+    text-align: center;
+    color: #ffffff;
+    background-color: #1e1a13;
+   
+}
+
+#imagenes {
+    text-align: center;
+    color: #ffffff;
+}
+
+#iguana {
+    background-size: cover;
+}
+
+#iguana-1 .wrapper img, .texto {
+
+display: inline block;
+vertical-align: middle;
+}
